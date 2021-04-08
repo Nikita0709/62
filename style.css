@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background: linear-gradient(pink, red);
+
+}
+
+img {
+    width: 300px;
+    height: 10%;
+}
+
+#image1 {
+    width: 600px;
+    height: 450px;
+    border: solid 5px;
+    border-color: black;
+}
+
+hr {
+    color: black;
+    border: solid 2px;
+}
+
+#myCarousel img {
+    height: 10%;
+}
+
+p {
+    font-size: 40px;
+    text-align: left;
+    font-family: 'Dela Gothic One', cursive;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+}
